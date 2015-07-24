@@ -1,0 +1,21 @@
+{
+  "extensions":
+  [
+    "sql",
+    "pck",
+    "trg"
+  ],
+  "default_encoding": "Western (ISO 8859-1)",
+  "default_line_ending": "windows",
+  "ensure_newline_at_eof_on_save": true,
+  "fallback_encoding": "Western (ISO 8859-1)",
+  "rulers":
+  [
+    80
+  ],
+  "show_encoding": true,
+  "show_line_endings": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true
+}

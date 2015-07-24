@@ -1,0 +1,14 @@
+{
+	"animation_enabled": false,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"dictionary": "Packages/VeroptBRV320AOC/pt_BR.dic",
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"tree_animation_enabled": false
+}
