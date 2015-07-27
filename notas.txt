@@ -1,0 +1,17 @@
+--
+https://github.com/airbnb/javascript/blob/master/README.md#naming-conventions
+--
+https://medium.com/@faisalabid/7-tips-for-a-node-js-padawan-e7c0b0e5ce3c
+Tip 1: Use nodemon for development. pm2 for production.
+Tip 2: Async or Q. My personal fav? Q all the way!
+Tip 3: Debugging Node.js apps easily. https://github.com/node-inspector/node-inspector
+--
+https://www.npmjs.com/package/lokijs
+https://github.com/techfort/LokiJS
+--
+https://www.npmjs.com/
+--
+https://github.com/sergeyksv/tingodb
+--
+https://github.com/ForbesLindesay/browserify-middleware
+http://learnjs.io/blog/2013/12/22/express-and-browserify/
