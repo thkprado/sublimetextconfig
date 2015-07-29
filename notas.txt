@@ -17,3 +17,5 @@ https://github.com/sergeyksv/tingodb
 --
 https://github.com/ForbesLindesay/browserify-middleware
 http://learnjs.io/blog/2013/12/22/express-and-browserify/
+--
+http://eddywashere.com/blog/switching-out-callbacks-with-promises-in-mongoose/
