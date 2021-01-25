@@ -1,7 +1,7 @@
 import sublime, sublime_plugin
 import os.path, string
 
-VALID_FILENAME_CHARS = "-_.() %s%s%s" % (string.ascii_letters, string.digits, "/:\\")
+VALID_FILENAME_CHARS = "~-_.() %s%s%s" % (string.ascii_letters, string.digits, "/:\\")
 
 # { "keys": ["alt+o"], "command": "open_filename_under_cursor" }
 # https://gist.github.com/1186126
